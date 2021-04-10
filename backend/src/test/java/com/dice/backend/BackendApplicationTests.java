@@ -1,10 +1,10 @@
-package com.gubadam.dice;
+package com.dice.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DiceApplicationTests {
+class BackendApplicationTests {
 
     @Test
     void contextLoads() {

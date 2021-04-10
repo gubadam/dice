@@ -1,12 +1,13 @@
-package com.gubadam.dice;
+package com.dice.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DiceApplication {
+public class BackendApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DiceApplication.class, args);
+        SpringApplication.run(BackendApplication.class, args);
     }
+
 }
